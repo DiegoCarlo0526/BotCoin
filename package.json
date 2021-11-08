@@ -1,0 +1,20 @@
+{
+  "name": "bot-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cron": "^1.8.2",
+    "currency-converter-lt": "^1.1.4",
+    "express": "^4.17.1",
+    "telegraf": "^4.4.2"
+  }
+}
